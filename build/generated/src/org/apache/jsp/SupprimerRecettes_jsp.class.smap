@@ -1,0 +1,20 @@
+SMAP
+SupprimerRecettes_jsp.java
+JSP
+*S JSP
+*F
++ 0 SupprimerRecettes.jsp
+SupprimerRecettes.jsp
+*L
+5,70:47
+75,4:118
+78,2:122
+80,2:124,3
+82,2:130
+84:132,3
+85,4:135
+89:139,3
+90,5:142
+94,2:147
+95,15:149
+*E
